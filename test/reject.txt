@@ -15782,7 +15782,6 @@ payload:
   - '+.clickauditor.net'
   - '+.clickaval.com'
   - '+.clickbangpop.com'
-  - '+.clickbank.com'
   - '+.clickbaza.com'
   - '+.clickbet88.com'
   - '+.clickbigo.com'
